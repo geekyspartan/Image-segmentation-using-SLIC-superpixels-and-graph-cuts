@@ -26,7 +26,3 @@ Python command:
 > python segmentationVideo.py [original image Path]
 
 Refer [Real Time Segmentation](https://github.com/geekyspartan/Image-segmentation-using-SLIC-superpixels-and-graph-cuts/blob/master/Real%20Time%20segmentation.mov) to see the working example.
-
-# Team
-[Anurag Arora](https://github.com/geekyspartan)
-[Renu Rani](https://github.com/techiepanda)
